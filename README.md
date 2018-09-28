@@ -1,1 +1,1 @@
-# personal-projects
+# machine-learning
